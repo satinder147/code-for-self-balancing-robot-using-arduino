@@ -1,31 +1,12 @@
 /*this is the code for the self balacing robot using arduino and mpu-6050
-i have not written this code and i have put it for the VIDEO on my channel 
+i have not completely written this code and i have put it for the VIDEO on my channel 
 the link to the video is https://youtu.be/tGS7Vr_db98
 */
 
-//   Most of this code is other peoples read below!!
-// the bits I have hacked are indicated thusly
+//  the begining of the code is not mine
+// only the PID part is mine
 
-//********************************************************************************************************************************************************
-// MY STUFF
 
-// i found PlyAlex  https://www.youtube.com/watch?v=nlXqIe9-R7s  not a little helpful
-//
-// if you get the   ERROR NO LIBRARY FOUND   edit sketch book location in File-> Preferences
-// default location of sketch book is not where you think it is.
-
-//   Most of this code is other peoples read below!!
-// the bits I have hacked are indicated thusly
-
-//********************************************************************************************************************************************************
-// MY STUFF
-
-// i found PlyAlex  https://www.youtube.com/watch?v=nlXqIe9-R7s  not a little helpful
-//
-// if you get the   ERROR NO LIBRARY FOUND   edit sketch book location in File-> Preferences
-// default location of sketch book is not where you think it is.
-
-//*********************************************************************************************************************************************************
 
 // I2C device class (I2Cdev) demonstration Arduino sketch for MPU6050 class using DMP (MotionApps v2.0)
 // 6/21/2012 by Jeff Rowberg <jeff@rowberg.net>
